@@ -2,7 +2,7 @@
 **Kelompok 16**
 
 ---
-# Analisis Faktor-Faktor yang Memengaruhi Penumpang TransMetro Bandung (2020-2023)
+# Analisis Faktor-Faktor yang Memengaruhi Penumpang TransMetro Bandung (2020-2024)
 
 Projek ini bertujuan untuk menganalisis bagaimana variabel ekonomi (**PDRB**) dan tren minat masyarakat (**Google Trends Wisata**) memengaruhi volume penumpang bus TransMetro Bandung menggunakan metode Regresi Linear Berganda.
 
