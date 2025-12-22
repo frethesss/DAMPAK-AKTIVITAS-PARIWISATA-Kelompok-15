@@ -61,7 +61,7 @@ Menunjukkan fluktuasi minat wisata yang sempat anjlok tajam pada masa PPKM 2021.
 
 ---
 
-## 🚀 Kesimpulan
+## Kesimpulan
 Model ini membuktikan bahwa **PDRB (Ekonomi)** adalah pendorong yang paling konsisten bagi volume penumpang, sedangkan **Wisata** memberikan dampak yang signifikan namun lebih sensitif terhadap kebijakan mobilitas eksternal.
 
 ---
